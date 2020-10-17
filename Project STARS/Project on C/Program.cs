@@ -10,6 +10,11 @@ namespace Project_on_C
     {
         static void Main(string[] args)
         {
+            int n = 0;
+            double a = 9.0;
+            Console.WriteLine(n);
+            Console.WriteLine(n++);
+            Console.ReadLine();
         }
     }
 }

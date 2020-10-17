@@ -1,0 +1,7 @@
+C:\Users\vanya\source\repos\Project STARS\Project on C\bin\Debug\Project on C.exe.config
+C:\Users\vanya\source\repos\Project STARS\Project on C\bin\Debug\Project on C.exe
+C:\Users\vanya\source\repos\Project STARS\Project on C\bin\Debug\Project on C.pdb
+C:\Users\vanya\source\repos\Project STARS\Project on C\obj\Debug\Project on C.csprojAssemblyReference.cache
+C:\Users\vanya\source\repos\Project STARS\Project on C\obj\Debug\Project on C.csproj.CoreCompileInputs.cache
+C:\Users\vanya\source\repos\Project STARS\Project on C\obj\Debug\Project on C.exe
+C:\Users\vanya\source\repos\Project STARS\Project on C\obj\Debug\Project on C.pdb
